@@ -13,7 +13,7 @@ Solutions for the BRAC University Computer Science and Engineering Course - CSE1
 ## Week 7: Operator Overloading & Encapsulation
    * CSE111 Lab Assignment 05
 ## Week 8: Static/ Class Variable and Method
-   * CSE111 Lab Assignment 6
+   * CSE111 Lab Assignment 06
 ## Week 9: Inheritance
    * CSE111 Lab Assignment 07
 ## Week 10: Variable and Method Overriding
