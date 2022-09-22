@@ -1,6 +1,6 @@
 # CSE111: Programming Language II (Summer 2022)
 Solutions for the BRAC University Computer Science and Engineering Course - CSE111 Lab Assignments (Summer - 2022).
-# Course Outline:
+## Course Outline:
 # Week 1: String, List, Dictionary & Tuple, Functions
 # Week 2: Dictionary & Tuple, Functions
 # Week 3: Intro to OOP
